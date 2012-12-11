@@ -65,3 +65,10 @@ EOF
 %{_datadir}/applications/%{name}.desktop
 
 
+
+
+%changelog
+* Sun Mar 11 2012 Andrey Bondrov <abondrov@mandriva.org> 0.0.1-1mdv2011.0
++ Revision: 784117
+- imported package opengoo
+
