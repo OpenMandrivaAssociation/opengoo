@@ -2,7 +2,7 @@
 
 Name:		opengoo
 Version:	0.0.1
-Release:	%mkrel 1
+Release:	2
 Summary:	Free and open clone of World of GOO
 Group:		Games/Puzzles
 License:	GPLv3+
