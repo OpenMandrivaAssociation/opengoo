@@ -6,7 +6,7 @@ Release:	2
 Summary:	Free and open clone of World of GOO
 Group:		Games/Puzzles
 License:	GPLv3+
-URL:		http://mandarancio.github.com/OpenGOO/
+URL:		https://mandarancio.github.com/OpenGOO/
 # fetched from git
 Source0:	%{name}-%{version}.tar.bz2
 BuildRequires:	qt4-devel
