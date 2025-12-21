@@ -9,6 +9,7 @@ License:	GPLv3+
 URL:		https://mandarancio.github.com/OpenGOO/
 # fetched from git
 Source0:	%{name}-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	qt4-devel
 BuildRequires:	box2d-devel
 
